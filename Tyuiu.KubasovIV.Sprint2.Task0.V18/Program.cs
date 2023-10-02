@@ -10,7 +10,7 @@ namespace Tyuiu.KubasovIV.Sprint2.Task0.V18
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #1 | Выполнил: Кубасов И. В. | АСОиУБ-23-2";
+            Console.Title = "Спринт #2 | Выполнил: Кубасов И. В. | АСОиУБ-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
